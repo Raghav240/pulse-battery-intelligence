@@ -1,0 +1,11 @@
+{
+  "protect_alert": true,
+  "protect_limit": 80,
+  "low_alert": 20,
+  "refresh_sec": 15,
+  "performance_mode": "Performance",
+  "fan_profile": "Turbo",
+  "overlay_hotkey": "Ctrl+Shift+B",
+  "start_with_windows": false,
+  "notify_level": 80
+}

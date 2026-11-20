@@ -1,0 +1,25 @@
+# Python runtime artifacts
+__pycache__/
+*.py[cod]
+*.pyd
+
+# Local runtime data
+backend/battery_stats.db
+backend/win_battery_report.xml
+*.log
+
+# Frontend dependencies and generated bundles
+app/node_modules/
+app/dist/
+
+# PyInstaller working directories and generated archives
+build/
+dist/
+*.manifest
+*.spec.bak
+
+# Editor and operating-system files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
